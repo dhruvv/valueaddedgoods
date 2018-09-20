@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "113095278436",
+    "firebase_url": "https://value-added-goods.firebaseio.com",
+    "project_id": "value-added-goods",
+    "storage_bucket": "value-added-goods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113095278436:android:136280f95f4e071c",
+        "android_client_info": {
+          "package_name": "tech.zerolabs.valueaddedgoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113095278436-fu932dm2oc6n3l5ra3hgtp83rulq0e4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgPrDc-jWfLbyK04ePK_PbBXBVgvF4vjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
